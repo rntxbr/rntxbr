@@ -2,19 +2,6 @@
 
 ### Software Engineer
 
-- 🔭 I'm currently working on **Vue.js ecosystem**
-
-- 🌱 I'm currently learning **AI with Cursor, Codex CLI, Gemini CLI, MCP Servers.**
-
-- 💬 Ask me about **Vue.js, React.js, Next.js, Nuxt.js, JavaScript, TypeScript.**
-
-- 📫 How to reach me **renatokhael@gmail.com**
-
-- 👨‍💻 All of my projects are available at **[https://renatokhael.com](https://renatokhael.com)**
-
-- 📝 I regularly write articles on **[https://renatokhael.com](https://renatokhael.com)**
-
-- 📄 Know about my experiences **[https://www.linkedin.com/in/rkhael/](https://www.linkedin.com/in/rkhael/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
