@@ -1,15 +1,60 @@
-# Hi 👋, I'm Renato Khael
+# Renato Khael
 
-### Software Engineer
+**Head of Chapter · Software Engineer · Frontend Architecture**
 
+I build web products and the engineering foundations behind them. My work connects technical leadership, frontend architecture, performance and developer experience. Based in Brazil, with 10+ years in software engineering.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/rntxbr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="rntxbr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rkhael/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rkhael/" height="30" width="40" /></a>
-</p>
+[Portfolio](https://renatokhael.com) · [LinkedIn](https://www.linkedin.com/in/rkhael/) · [Open-source projects](https://github.com/rntxbr?tab=repositories&type=source)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cypress" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cypress" alt="cypress" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/graphql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/illustrator" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jenkins" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jest" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nestjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nuxtjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nuxtjs" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuepress" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuepress" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuetify" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vuetify" alt="vuetify" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/webpack" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=webpack" alt="webpack" width="40" height="40"/> </a></p>
+## Focus
 
+- **Engineering leadership:** mentoring, chapter development, architecture and engineering quality.
+- **Frontend:** React, Next.js, Vue.js, Nuxt, TypeScript and design systems.
+- **Performance:** rendering, bundle optimization and legacy modernization.
+- **OTT & streaming:** Web, Android, iOS, Roku and Smart TV.
 
+## Selected experience
+
+| Company | Role | Period |
+| :--- | :--- | :--- |
+| **OVERLABS** | Head of Chapter · OTT & Streaming | Dec 2025–present |
+| **Reply** | Staff Frontend Engineer | Jul–Nov 2025 |
+| **Opsteam / Linx** | Senior Frontend Developer | Jan–Jul 2025 |
+| **Luizalabs / Netshoes** | Frontend Developer | Jun–Dec 2024 |
+| **QuintoAndar** | Software Engineer I–III | Oct 2021–Dec 2023 |
+
+At OVERLABS, I lead 4 Chapter Leads and support 20+ engineers. Previous work includes frontend standardization at Reply, ERP modernization at Linx and performance engineering at Luizalabs. Earlier roles include ATTA, InstaCarro and Somai EdTech.
+
+**Education:** MBA in IT Management · Systems Analysis and Development, Anhanguera Educacional.
+
+<details>
+<summary>Stack and engineering practices</summary>
+
+- **Web:** JavaScript, TypeScript, React, Next.js, Vue.js, Nuxt, Astro, Tailwind CSS.
+- **Backend & data:** Node.js, NestJS, GraphQL, PostgreSQL, MongoDB.
+- **Quality & delivery:** Jest, Cypress, Git, Docker, CI/CD, accessibility and responsive interfaces.
+
+</details>
+
+## Open source
+
+| Project | Purpose | Stack |
+| :--- | :--- | :--- |
+| [**cvats**](https://github.com/rntxbr/cvats-app) | ATS resume builder and analyzer with PDF export, live preview and job-description matching. [Try it](https://cvats.com.br). | Next.js · React · TypeScript |
+| [**SpeedAct**](https://github.com/rntxbr/lib-speedact) | React component performance monitoring and render metrics. | React · TypeScript |
+| [**DevFinder**](https://github.com/rntxbr/devfinder-app) | GitHub profile search with repository insights. | JavaScript · GitHub API |
+| [**Jucelito Silva**](https://github.com/rntxbr/astro-theme-jucelito-silva) | Developer portfolio theme with blog and responsive layouts. | Astro · React · Tailwind CSS |
+| [**Sofia Luna**](https://github.com/rntxbr/astro-theme-sofia-luna) | Customizable developer portfolio and blog theme. | Astro · React · TypeScript |
+
+## GitHub activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-dark.svg">
+  <img src="./assets/activity.svg" alt="Renato Khael's contributions by month and stars across selected open-source projects, with reporting dates" width="840">
+</picture>
+
+<sub>Updated daily from GitHub. Contributions follow GitHub's visibility and counting rules. Stars show community interest, not code quality. Partial months are included. [Native contribution graph and activity](https://github.com/rntxbr#user-activity-overview).</sub>
+
+## Em português
+
+Sou engenheiro de software e Head of Chapter, com foco em liderança técnica, arquitetura frontend e performance. Desenvolvo produtos web e projetos open source com React, Vue.js e TypeScript. Conheça minha trajetória no [portfólio](https://renatokhael.com) ou converse comigo pelo [LinkedIn](https://www.linkedin.com/in/rkhael/).
